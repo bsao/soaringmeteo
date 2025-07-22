@@ -7,7 +7,7 @@
     "ol": "8.1.0",
     "plausible-tracker": "0.3.8",
     "proj4": "2.9.2",
-    "solid-js": "1.8.12"
+    "solid-js": "1.9.4"
   },
   "type": "module",
   "devDependencies": {
@@ -15,9 +15,9 @@
     "@inlang/paraglide-js": "1.2.5",
     "@inlang/paraglide-js-adapter-vite": "1.2.14",
     "@types/proj4": "2.5.4",
-    "serve-static": "1.15.0",
+    "serve-static": "1.16.0",
     "typescript": "5.3.3",
-    "vite": "4.5.3",
+    "vite": "4.5.14",
     "vite-plugin-pwa": "0.20.0",
     "vite-plugin-solid": "2.5.0"
   },
